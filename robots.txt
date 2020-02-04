@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://saigaeteed.andreamaglie.com/sitemap.xml
